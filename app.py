@@ -6,6 +6,7 @@ import chromadb
 from dotenv import load_dotenv
 import textwrap
 
+
 load_dotenv()
 
 @cl.on_chat_start
